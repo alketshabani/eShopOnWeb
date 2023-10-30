@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-alket
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 1a1bf5d0-2b25-4ea9-bcf8-25222a573e43
   WEBAPP-NAME: az400-webapp-alket-web
 
 
